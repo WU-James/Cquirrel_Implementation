@@ -1,5 +1,5 @@
 # Cquirrel_Implementation
-This is my implementation of [Cquirrel](https://cse.hkust.edu.hk/~yike/Cquirrel.pdf) using Flink.
+This is my implementation of [Cquirrel](https://cse.hkust.edu.hk/~yike/Cquirrel.pdf) using Flink. The Query 3 of [TPC-H](https://www.tpc.org/tpch/) is selected to implement.
 
 ## Dependencies
 Java 11
