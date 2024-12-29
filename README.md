@@ -14,5 +14,5 @@ To run it in the local development mode (such as in IntelliJ), create a Maven pr
 
 To run it in a cluster mode, download the jar [here](https://drive.google.com/file/d/1Kip3pwCEl0JabmOvcY8RLF4jrPvo_mpE/view?usp=drive_link). Submit the job via the webUI of Flink or use the cmd:
 
-**./flink run -d -c org.example.Cquirrel <path_to_jar> <path_to_your_csv> <path_to_output_folder>**
+`**./flink run -d -c org.example.Cquirrel <path_to_jar> <path_to_your_csv> <path_to_output_folder>**`
 
