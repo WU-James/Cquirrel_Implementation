@@ -25,6 +25,6 @@ The raw experiment result of running time (in sec) of Cquirrel algorithm.
 
 ![Figure of running time](https://github.com/WU-James/Cquirrel_Implementation/blob/main/figure/figure.png)
 
-The cluster bar chart of running time (in sec) of Cquirrel algorithm. Left: clustered by parallelism. Right: clustered by SF.
+The cluster bar chart of running time (in sec) of Cquirrel algorithm. Left: grouped by parallelism. Right: grouped by SF.
 
 
